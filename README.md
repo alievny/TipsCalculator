@@ -1,2 +1,2 @@
 # TipsCalculator
-Tips calculator
+This is my first app. Tips calculator by python
